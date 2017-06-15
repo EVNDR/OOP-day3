@@ -14,8 +14,8 @@ class javelin(games):
         games._init_(self,*args)
 
 class chess(games):
-    def _init_(self,chess)
-        self.chess = chess
+    def _init_(self,boards)
+        self.boards = boards
         games._init_(self.*args)
 
 
